@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-***<p align="center"> [<img height="60" src="images/b1.png">](https://adil-hamza.com)[<img height="60" src="images/b2.png">](https://www.facebook.com/AdilHamzaCoder/)[<img height="60" src="images/b3.png">](https://www.linkedin.com/) </p>***
+***<p align="center"> [<img height="60" src="images/b1.png">](https://adil-hamza.com)[<img height="60" src="images/b2.png">](https://www.facebook.com/AdilHamzaCoder/)[<img height="60" src="images/b3.png">]([https://www.linkedin.com/](https://www.linkedin.com/in/adil-hamza/) </p>***
 
 <br/>
 <br/>
