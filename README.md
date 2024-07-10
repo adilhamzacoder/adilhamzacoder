@@ -38,17 +38,7 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:adilhamza486@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/adil-hamza-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/adilhamza-learnwithadil" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+
 
  <hr/>
  
@@ -71,38 +61,3 @@
 </div>
 
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dracula)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true"
-    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true" />
-</picture>
-<div/>
-
-
-<a href="https://github.com/adilhamza-learnwithadil/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilhamza-learnwithadil&layout=compact&langs_count=8&card_width=250" />
-</a>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-
-</div>
-
-<br/>
